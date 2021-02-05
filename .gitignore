@@ -1,0 +1,4 @@
+/node_modules
+/enclosure
+/*.zip
+/dist
